@@ -70,7 +70,7 @@ header{
     height: 100%;
     width: 100%;
     min-height: 100vh; /*ocupa todo el alto disponible*/
-    background: linear-gradient(245.59deg,#31494e 0%, #385e70 25%, #131313 75%); /*fondo degradado*/
+    background: linear-gradient(245.59deg,#3a4761 0%, #1f2d45 25%, #041329 75%); /*fondo degradado*/
     position: relative; /*relativo al contenedor, nos permite usar top botton left y right*/
     display: grid; /*Para que el grid se pueda dividir en dos columnas*/
     grid-template-columns: 1fr 1fr; /*genera dos columnas para el contenido*/
@@ -91,7 +91,7 @@ section{
 .hero-text h4{
     font-size: 18px;
     font-weight: 600px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .hero-text h1{
